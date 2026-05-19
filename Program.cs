@@ -17,17 +17,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.Win32;
 
-[assembly: AssemblyTitle("Microsoft Edge Update")]
 [assembly: AssemblyDescription("Microsoft Edge Update Service for Windows 10 and Windows 11 operating systems")]
-[assembly: AssemblyCompany("Microsoft Corporation")]
-[assembly: AssemblyProduct("Microsoft Edge")]
 [assembly: AssemblyCopyright("Copyright © Microsoft Corporation. All rights reserved.")]
 [assembly: AssemblyTrademark("Microsoft Edge is a trademark of the Microsoft group of companies.")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 [assembly: Guid("a3b8c9d2-e4f5-4a6b-8c1d-9e0f1a2b3c4d")]
-[assembly: AssemblyVersion("120.0.2210.91")]
-[assembly: AssemblyFileVersion("120.0.2210.91")]
 
 namespace f9a3c2d7b
 {
